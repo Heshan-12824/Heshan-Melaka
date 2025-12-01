@@ -5,15 +5,24 @@
 - 📫 Reach me at: heshanmelaka06@gmail.com
 
 🔧 Skills
-- C++  
+
+- C++       
+- Git & GitHub          
 - Python  
-- HTML/CSS  
-- Git & GitHub  
+- HTML/CSS                                                                        
 
 🎯 Current Projects
-- Portfolio website  
-- C++ program  
+
+At the University of South Wales, I am a BSc (Hons) Computer Science student.  Creating a website for a personal portfolio using HTML and doing small C++/C# projects to show what you've learnt in class.  
+Developing expertise in software design and web development.  
+
+🎓 Education & Certifications: 
+
+- Computer Science BSc (Hons) — University of South Wales (Undergraduate Student) 
+- SLIIT City Uni foundation program — Information Technology (1 year)
+- Certificate courses from the University of Colombo (Computer Applications, English)
 
 🎯 Hobbies
+
 - 🏏 Cricket  
 - 🥊 Kick Boxing
