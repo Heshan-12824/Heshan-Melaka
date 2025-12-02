@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **C programming, C#, basic web development using HTML, and my current projects.**
 
-- 📫 How to reach me **heshanmelaka06@gmail.com**
+- 📫 How to reach me [heshanmelaka06@gmail.com]
 
-- 📄 Know about my experiences [I have experience in programming with C and C#, web development basics, system analysis, and teamwork through projects and extracurricular activities.](I have experience in programming with C and C#, web development basics, system analysis, and teamwork through projects and extracurricular activities.)
+- 📄 Know about my experiences I have experience in programming with C and C#, web development basics, system analysis, and teamwork through projects and extracurricular activities.
 
 - ⚡ Fun fact **🏏 Cricket 🥊 Kick Boxing**
 
