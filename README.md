@@ -17,9 +17,11 @@
 
 - 📫 How to reach me [heshanmelaka06@gmail.com]
 
-- 📄 Know about my experiences I have experience in programming with C and C#, web development basics, system analysis, and teamwork through projects and extracurricular activities.
+- 📄 Know about my experiences. I have experience in programming with C and C#, web development basics, system analysis, and teamwork through projects and extracurricular activities.
 
-- ⚡ Fun fact **🏏 Cricket 🥊 Kick Boxing**
+- ⚡ Fun fact
+          - 🏏 Cricket
+          -🥊 Kick Boxing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +34,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heshan12824&show_icons=true&locale=en&layout=compact" alt="heshan12824" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heshan12824&" alt="heshan12824" /></p>
