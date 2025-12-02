@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshan12824&label=Profile%20views&color=0e75b6&style=flat" alt="heshan12824" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshan12824" alt="heshan12824" /></a> </p>
-
 - 🔭 I’m currently working on **At the University of South Wales, I am a BSc (Hons) Computer Science student. Creating a website for a personal portfolio using HTML and doing small C++/C# projects to show what you've learnt in class. Developing expertise in software design and web development.**
 
 - 🌱 I’m currently learning **Creating a website for a personal portfolio using HTML and doing small C++/C# projects**
